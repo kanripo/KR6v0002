@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:03.017932
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:05
 #+TITLE: 天竺國菩提達摩禪師論
 #+PROPERTY: CBETA_ID W01n0001
 #+PROPERTY: ID KR6v0002
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 001
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0002_W_001-0032a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 天竺國菩提達摩禪師論¶
 整理者　方廣錩¶
 ¶
 
@@ -77,10 +77,9 @@
 中良昭、西口芳男及參加討論會的其他諸位先生表示感謝。¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 天竺國菩提達摩禪師論一卷¶
+天竺國菩提達摩禪師論一卷¶
 ¶
 
 禪門之法，如經論所說，乃有多義，非直一名。一名禪定門，¶
